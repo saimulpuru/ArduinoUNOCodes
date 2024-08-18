@@ -1,7 +1,7 @@
 //Code to sweep servo from 0 to 90 and back
 #include <Servo.h>
 
-const int servoPin1 = 3;  // Servo signal pin connected to Pin 3 on Nano
+const int servoPin1 = 3;  // Servo signal pin connected to Pin 3 on UNO
 
 Servo myServo1;
 
